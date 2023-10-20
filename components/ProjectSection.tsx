@@ -6,27 +6,26 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs";
 
 const projects = [
   {
-    name: "Thankful Thoughts",
-    description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+    name: "GYM",
+    description: "GYM is a landing page for a gym.",
+    image: "/gym.png",
+    github: "https://github.com/wassim-stack/GYM-TypeScript",
+    link: "https://64c12385a88d290d220ca7e6--harmonious-pie-1d7c01.netlify.app/",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    name: "Makhmekh",
+    description:
+      "Makhmekh is a restaurant website using Tailwind CSS & ReactJS.",
+    image: "/restau.png",
+    github: "https://github.com/wassim-stack/restaurant",
+    link: "https://makhmekh.netlify.app/",
   },
   {
-    name: "Kator Family Photos",
-    description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+    name: "Cars Hub",
+    description: "Cars Hub is a website dedicated to showcasing cars.",
+    image: "/Car-Hub.png",
+    github: "https://github.com/wassim-stack/cars_showcase",
+    link: "https://cars-showcase-gray.vercel.app/",
   },
 ];
 const ProjectSection = () => {
