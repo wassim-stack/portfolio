@@ -29,10 +29,10 @@ const AboutSection = () => {
             </h1>
             <p>
               Hi, my name is Wassim and I am a{" "}
-              <span className="font-bold">{"highly ambitious &apos;"}</span>,
-              <span className="font-bold">{" self-motivated &apos;"}</span>, and
-              <span className="font-bold">{" driven &apos;"}</span> software
-              engineer based in Ben Arous.
+              <span className="font-bold">{"highly ambitious "}</span>,
+              <span className="font-bold">{" self-motivated "}</span>, and
+              <span className="font-bold">{" driven "}</span> software engineer
+              based in Ben Arous.
             </p>
             <br />
             <p>
