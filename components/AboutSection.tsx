@@ -29,30 +29,18 @@ const AboutSection = () => {
             </h1>
             <p>
               Hi, my name is Wassim and I am a{" "}
-              <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> software engineer
-              based in Ben Arous.
-            </p>
-            <br />
-            <p>
-              I am currently pursuing a master's degree in software engineering
-              at <span className="font-bold">{"ISI Ariana"}</span>.
-            </p>
-            <br />
-            <p>
-              I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, I am always seeking new
-              experiences and love to keep myself engaged and learning new
-              things.
+              <span className="font-bold">{"highly ambitious &apos;"}</span>,
+              <span className="font-bold">{" self-motivated &apos;"}</span>, and
+              <span className="font-bold">{" driven &apos;"}</span> software
+              engineer based in Ben Arous.
             </p>
             <br />
             <p>
               I believe that you should{" "}
               <span className="font-bold text-teal-500">
-                never stop growing
+                never stop growing &amp;
               </span>{" "}
-              and that&#39;s what I strive to do, I have a passion for
+              and that&apos;s what I strive to do, I have a passion for
               technology and a desire to always push the limits of what is
               possible. I am excited to see where my career takes me and am
               always open to new opportunities. 🙂
