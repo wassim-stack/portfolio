@@ -1,8 +1,10 @@
 "use client";
 import Image from "next/image";
 import React from "react";
-import { Link } from "react-scroll/modules";
-import { HiArrowDown } from "react-icons/hi";
+// import { Link } from "react-scroll/modules";
+
+// import { HiArrowDown } from "react-icons/hi";
+import { Link } from "react-scroll";
 const HeroSection = () => {
   return (
     <section id="home">
@@ -50,7 +52,7 @@ const HeroSection = () => {
           offset={-100}
           duration={500}
         >
-          <HiArrowDown size={35} className="animate-bounce" />
+          {/* <HiArrowDown size={35} className="animate-bounce" /> */}
         </Link>
       </div>
     </section>
